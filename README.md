@@ -9,7 +9,9 @@ Seq2Seq with Attention Mechanism algorithm from scratch.
  
 There are several tutorial:
 > Official TensorFlow Tutorial https://github.com/tensorflow/nmt
+
 And PyTorch one:
+
 > Official PyTorch Tutorial  https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
 
 
