@@ -1,4 +1,4 @@
-# seq2seq with attention tensorflow
+# Seq2Seq with Attention TensorFlow
 
 ## Introduction
 
