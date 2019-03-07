@@ -2,8 +2,11 @@
 
 ## Introduction
 
-n this tutorial we will create neural machine translation based on modern 
-Seq2Seq with Attention Mechanism algorithm from scratch. 
+In this tutorial we will create neural machine translation based on modern 
+Seq2Seq with Attention Mechanism algorithm from scratch.
+
+## ** [sequence-to-sequence model with attention mechanism](seq2seq_att.ipynb)**
+ 
 There are several tutorial:
 > Official TensorFlow Tutorial https://github.com/tensorflow/nmt
 > Official PyTorch Tutorial  https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
