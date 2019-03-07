@@ -8,8 +8,9 @@ Seq2Seq with Attention Mechanism algorithm from scratch.
 ## ** [sequence-to-sequence model with attention mechanism](seq2seq_att.ipynb)**
  
 There are several tutorial:
+1)
 > Official TensorFlow Tutorial https://github.com/tensorflow/nmt
-
+2)
 > Official PyTorch Tutorial  https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
 
 
